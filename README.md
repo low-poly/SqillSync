@@ -42,4 +42,4 @@ SqillSync follows the same `SKILL.md` + `skills.json` convention used by the bro
 
 ## Website
 
-[sqillsync.com](https://sqillsync.com)
+[sqillsync.dev](https://sqillsync.dev)
